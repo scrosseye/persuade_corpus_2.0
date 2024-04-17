@@ -13,3 +13,5 @@ The holistic scores, demographic data, and individual differences
 https://drive.google.com/file/d/10U558k6ocLeIRIwapDH-IqXjq0neK1R7/view?usp=share_link
 
 A pre-print of the associated paper is at https://zenodo.org/record/8221504.
+
+The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
