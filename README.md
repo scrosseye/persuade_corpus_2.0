@@ -7,7 +7,7 @@ In total, the PERSUADE 2.0 corpus comprises over 25,000 argumentative essays pro
 The .csv files are too large for github. The links for the dataframes are below
 
 All the argumentative and discourse element annotations and effectiveness scores
-https://drive.google.com/file/d/1rDy69X3sE7xtVgUQUsA6whlGANV1RgH3/view?usp=share_link
+https://drive.google.com/file/d/1dlGCdFTiv3E0SPVu17A8CwyntzgVb3pt/view?usp=sharing
 
 The holistic scores, demographic data, and individual differences
 https://drive.google.com/file/d/10U558k6ocLeIRIwapDH-IqXjq0neK1R7/view?usp=share_link
