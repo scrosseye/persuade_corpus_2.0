@@ -14,6 +14,8 @@ All the argumentative and discourse element annotations and effectiveness scores
 
 **PLEASE NOTE**: The test set is a password protected zip file. The password is **persuade_test**.
 
+You may need to use specific software to decrypt the sip drive like 7-Zip for Windows of Keka for Mac.
+
 The published paper for the dataset is avaible is published [here](https://www.sciencedirect.com/science/article/pii/S1075293524000588?ssrnid=4795747&dgcid=SSRN_redirect_SD).
 
 The reference for the paper is 
