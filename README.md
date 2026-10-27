@@ -26,4 +26,4 @@ A pre-print of the associated paper is on [zenodo](https://zenodo.org/record/822
 
 It is important to note that disability status refers to students that have an IEP or 504 plan. No additional information is available.
 
-The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+The data is provided under Creative Commons Attribution 4.0 International License (CC BY 4.0).
